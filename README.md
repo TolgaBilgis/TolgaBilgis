@@ -1,41 +1,41 @@
-# Hi, I'm Tolga 👋
+# Tolga Bilgis
 
-I'm a Computer Engineering student at Clemson University interested in high-performance computing, distributed systems, AI infrastructure, and low-level systems.
+Computer Engineering student at Clemson University interested in high-performance computing, distributed systems, AI infrastructure, and low-level systems.
 
 I've worked on Linux clusters, high-speed networking, distributed computing, infrastructure automation, and performance benchmarking through research, competitions, and my internship at Los Alamos National Laboratory.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
-C/C++ · Python · Bash · MATLAB · Lua · Java · JavaScript
+C · C++ · Python · Bash · Java · JavaScript · MATLAB · Lua · SQL
 
-**HPC & Systems**  
-Linux · Slurm · MPI · OpenMP · InfiniBand/RDMA · Spack · xCAT · systemd · HPL · Networking
+**Systems & Infrastructure**  
+Linux · Distributed Systems · systemd · TCP/IP · Sockets · InfiniBand/RDMA · NFS · x86/ARM
 
-**Infrastructure & Automation**  
-Ansible · Git · GitLab · CI/CD · cloud-init · Docker · Podman · Charliecloud
+**Cloud & DevOps**  
+AWS · Kubernetes · Docker · Podman · Terraform · Ansible · Git · GitHub · GitLab CI/CD · cloud-init · Prometheus · Grafana · REST APIs · Flask · FastAPI
 
-**AI & Distributed Infrastructure**  
-NVIDIA Jetson · Distributed Systems · Vector Databases · RAG Infrastructure · Performance Benchmarking
+**HPC & Performance**  
+Slurm · MPI · OpenMP · CUDA · Spack · HPL/HPL-MxP · perf · Nsight · xCAT · Performance Benchmarking
 
-## 🔧 What I'm Interested In
+## Areas of Interest
 
-- High-performance computing
-- Distributed and parallel systems
-- AI / GPU infrastructure
-- Linux systems engineering
-- Performance engineering
-- Platform and infrastructure engineering
+- High-Performance Computing
+- Distributed Systems
+- AI & GPU Infrastructure
+- Linux Systems Engineering
+- Performance Engineering
+- Platform & Infrastructure Engineering
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### Distributed Edge AI Surveillance System
-Distributed computer-vision pipeline across NVIDIA Jetson devices using YOLO, facial recognition, and networked inference.
+### Distributed Edge AI Jetson Cluster
+Distributed real-time inference system across two NVIDIA Jetson devices using YOLO, facial recognition, containerization, and networked processing.
 
-### HPC & Cluster Computing
-Experience building, configuring, benchmarking, and troubleshooting Linux compute clusters using MPI, Slurm, InfiniBand, and HPL.
+<!-- Add these once they are actually built:
+### ClusterWatch
+Linux cluster monitoring and health-checking tool for collecting node metrics, detecting failures, and monitoring distributed systems.
 
----
-
-📍 Clemson, SC  
-🎓 Computer Engineering @ Clemson University
+### MPIBench
+MPI performance benchmarking framework for measuring latency, bandwidth, collective operations, and scaling across compute nodes.
+-->
