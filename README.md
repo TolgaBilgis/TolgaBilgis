@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tolga 👋
 
-<!--
-**TolgaBilgis/TolgaBilgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Clemson University interested in high-performance computing, distributed systems, AI infrastructure, and low-level systems.
 
-Here are some ideas to get you started:
+I've worked on Linux clusters, high-speed networking, distributed computing, infrastructure automation, and performance benchmarking through research, competitions, and my internship at Los Alamos National Laboratory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages**  
+C/C++ · Python · Bash · MATLAB · Lua · Java · JavaScript
+
+**HPC & Systems**  
+Linux · Slurm · MPI · OpenMP · InfiniBand/RDMA · Spack · xCAT · systemd · HPL · Networking
+
+**Infrastructure & Automation**  
+Ansible · Git · GitLab · CI/CD · cloud-init · Docker · Podman · Charliecloud
+
+**AI & Distributed Infrastructure**  
+NVIDIA Jetson · Distributed Systems · Vector Databases · RAG Infrastructure · Performance Benchmarking
+
+## 🔧 What I'm Interested In
+
+- High-performance computing
+- Distributed and parallel systems
+- AI / GPU infrastructure
+- Linux systems engineering
+- Performance engineering
+- Platform and infrastructure engineering
+
+## 🚀 Selected Projects
+
+### Distributed Edge AI Surveillance System
+Distributed computer-vision pipeline across NVIDIA Jetson devices using YOLO, facial recognition, and networked inference.
+
+### HPC & Cluster Computing
+Experience building, configuring, benchmarking, and troubleshooting Linux compute clusters using MPI, Slurm, InfiniBand, and HPL.
+
+---
+
+📍 Clemson, SC  
+🎓 Computer Engineering @ Clemson University
