@@ -4,20 +4,6 @@ Computer Engineering student at Clemson University interested in high-performanc
 
 I've worked on Linux clusters, high-speed networking, distributed computing, infrastructure automation, and performance benchmarking through research, competitions, and my internship at Los Alamos National Laboratory.
 
-## Technical Skills
-
-**Languages**  
-C · C++ · Python · Bash · Java · JavaScript · MATLAB · Lua · SQL
-
-**Systems & Infrastructure**  
-Linux · Distributed Systems · systemd · TCP/IP · Sockets · InfiniBand/RDMA · NFS · x86/ARM
-
-**Cloud & DevOps**  
-AWS · Kubernetes · Docker · Podman · Terraform · Ansible · Git · GitHub · GitLab CI/CD · cloud-init · Prometheus · Grafana · REST APIs · Flask · FastAPI
-
-**HPC & Performance**  
-Slurm · MPI · OpenMP · CUDA · Spack · HPL/HPL-MxP · perf · Nsight · xCAT · Performance Benchmarking
-
 ## Areas of Interest
 
 - High-Performance Computing
